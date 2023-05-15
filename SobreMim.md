@@ -14,7 +14,7 @@
 -     
 - 📫 How to reach me ...
 -     -> E-mail : tholzc@gmail.com
--     -> Linkedin:
+-     -> Linkedin: https://www.linkedin.com/in/thiago-holz-coutinho-a22434212/
 -     -> Instagram: #thiagoholzcoutinho
 -    
 
