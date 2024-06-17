@@ -42,8 +42,9 @@ Controlo o versionamento do setor Tributário, onde envolve Gerar e Compilar os 
 ## 📌 Repositórios Destaque 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pigas22&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&repo=ED2024_SC)](https://github.com/Pigas22/ED2024_SC)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pigas22&&repo=ProjetoArvore&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Pigas22/ProjetoArvore)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pigas22&repo=CadastroDeOnibus&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Pigas22/CadastroDeOnibus)
+
 </div>
 
 
