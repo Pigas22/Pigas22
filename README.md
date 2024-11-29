@@ -24,12 +24,15 @@ Controlo o versionamento do setor Tributário, onde envolve Gerar e Compilar os 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-%232C2255?style=for-the-badge&logo=eclipseide)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 📚 Atualmente estudando
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-yellow?style=for-the-badge&logo=apache-maven)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?logo=springboot&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+
 </div>
 
 ## 📊 GitHub Stats
